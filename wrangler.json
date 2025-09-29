@@ -1,5 +1,5 @@
 {
-  "name": "shopify-embedded-app",
+  "name": "paypal-shopify-ecommerce-app",
   "compatibility_date": "2025-04-01",
   "main": "./server.ts",
   "assets": {
