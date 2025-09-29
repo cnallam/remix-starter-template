@@ -1,5 +1,6 @@
 {
-  "name": "remix-starter-template",
+  "name": "// wrangler.json
+"name": "paypal-shopify-ecommerce-app",",
   "compatibility_date": "2025-04-01",
   "main": "./server.ts",
   "assets": {
